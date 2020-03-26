@@ -1,0 +1,14 @@
+{
+  "name": "module01assignmentv2",
+  "version": "1.0.0",
+  "description": "Different approach to assignment #1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ramdaddyjw",
+  "license": "ISC",
+  "dependencies": {
+    "path": "0.12.7"
+  }
+}
